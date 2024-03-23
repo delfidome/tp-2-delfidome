@@ -8,6 +8,7 @@ def change():
     print("\n")
     print (f"Vuelto")
     change = (money-expense)
+    print (change)
     print ("\n")
     print (f"Pesos:")
     print (int (change))
